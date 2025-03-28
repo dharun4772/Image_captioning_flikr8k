@@ -63,7 +63,4 @@ print(caption)
 - [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
 - [Flickr8K Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
-## Author
-[Your Name]
-
 
